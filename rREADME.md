@@ -36,7 +36,7 @@ $ source scripts/activate                       # Выполнение скри�
 
 ```ShellSession
 $ mkdir ~/.config                               # Создание папки с конфигами
-mkdir: cannot create directory ‘/home/toliak/.config’: File exists
+mkdir: cannot create directory ‘/home/Samkharadze/.config’: File exists
 $ cat > ~/.config/hub <<EOF                     # Создание файла конфига hub и запись в него
 github.com:
 - user: ${GITHUB_USERNAME}
